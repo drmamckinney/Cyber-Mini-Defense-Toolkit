@@ -4,7 +4,7 @@
 
 **Name:** Mark A. McKinney  
 **Date:** August 15, 2026
-
+**GitHub Repository:** https://github.com/drmamckinney/Cyber-Mini-Defense-Toolkit
 ---
 
 # Project Title
